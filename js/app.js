@@ -124,10 +124,10 @@ define('minnpost-state-fair-bingo', [
     defaultOptions: {
       projectName: 'minnpost-state-fair-bingo',
       cards: [
-        'bingocard-2016-01',
-        'bingocard-2016-02',
-        'bingocard-2016-03',
-        'bingocard-2016-04'
+        'bingocard-2017-1',
+        'bingocard-2017-2',
+        'bingocard-2017-3',
+        'bingocard-2017-4'
       ],
       remoteProxy: null,
       el: '.minnpost-state-fair-bingo-container',
